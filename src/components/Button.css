@@ -1,0 +1,19 @@
+.btn a{
+  text-decoration: none;
+}
+.btn a:hover{
+  color: red !important;
+}
+
+
+.contact_btn {
+    margin-top: 10px;
+    padding: 10px 30px;
+    background-color: #e5e5e5bd;
+    color: #222;
+    border: 2px solid #222;
+  }
+  .contact_btn :hover {
+    color: #fff !important;
+    background-color: #222;
+  }
